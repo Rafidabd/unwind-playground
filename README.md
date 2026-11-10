@@ -1,5 +1,7 @@
 # unwind.
 
+[Try it here](https://unwind-playground.netlify.app)
+
 A little browser playground for when I don't feel like doing anything useful.
 
 I was working on AAS and NIRAPOD one day, and both were taking their sweet time loading. I started messing around with a tiny universe while I waited. Then I kept adding things, and somehow it turned into this.
