@@ -1,6 +1,6 @@
 # unwind.
 
-[Try it here](https://rafidabd.github.io/unwind-playground/)
+[Play unwind.](https://rafidabd.github.io/unwind-playground/)
 
 A little browser playground for when I don't feel like doing anything useful.
 
@@ -19,14 +19,13 @@ There isn't really a goal here. You can break stuff, make something, put it back
 
 Sound is optional. There's a music menu with links to streaming searches, or you can choose an audio file from your own device.
 
-
 ## Running it
 
-Download the files and open `index.html` in a browser. That's all. No installation, backend, or account.
+You can [play it online](https://rafidabd.github.io/unwind-playground/) or download the repository files and open `index.html` in a browser. Keep the image files next to it. There's no installation, backend, account, or build step.
 
-The whole playground lives in one HTML file. It got a little bigger than I originally planned, but I liked being able to share one file that opens offline. The page also has its visuals embedded, so the offline file works on its own.
+Most of the playground lives in `index.html`, with the styles, scripts, and a lot of the visuals included in that file. It got a little bigger than I planned, but I liked keeping it easy to open locally. The GitHub Pages version publishes from the `main` branch.
 
-If you're hosting it on Netlify, upload the folder containing `index.html`.
+The built-in playground doesn't need streaming services. Music search links, of course, need an internet connection.
 
 ## A few things I learned the hard way
 
@@ -36,7 +35,7 @@ Some browsers won't run the full WebGL view, so Cosmos also has a lighter fallba
 
 ## What it's built with
 
-HTML, CSS, JavaScript, Canvas, WebGL and Web Audio. No framework or runtime dependencies.
+HTML, CSS, JavaScript, Canvas, WebGL and Web Audio. No framework or runtime dependencies. GitHub lists the repository as HTML because I kept most of the CSS and JavaScript inside `index.html`.
 
 ## Why I made it
 
