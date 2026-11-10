@@ -1,6 +1,6 @@
 # unwind.
 
-[Try it here](https://unwind-playground.netlify.app)
+[Try it here](https://rafidabd.github.io/unwind-playground/)
 
 A little browser playground for when I don't feel like doing anything useful.
 
