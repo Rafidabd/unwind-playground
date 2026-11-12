@@ -27,6 +27,10 @@ Most of the playground lives in `index.html`, with the styles, scripts, and a lo
 
 The built-in playground doesn't need streaming services. Music search links, of course, need an internet connection.
 
+## Site visits
+
+I use GoatCounter to get a rough idea of how many times the site is opened. It doesn't add a visible counter or badge, and it only counts visits from when I added it. Ad blockers can prevent some pageviews from being recorded.
+
 ## A few things I learned the hard way
 
 The first time I tried blowing up the Sun, my browser almost froze. That sent me down a rabbit hole of fragment limits, glow rendering, lower-resolution canvases, and less expensive rewind snapshots. Some effects are stylized rather than physically accurate; I'd rather have something that responds smoothly than a realistic-looking slideshow.
